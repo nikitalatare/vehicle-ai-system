@@ -27,7 +27,7 @@ Processing:
 - Damage Detection
 - Intent Extraction
 
---
+---
 
 ##Tech Stack
 
@@ -41,7 +41,7 @@ HuggingFace Transformers
 
 PyTorch
 
---
+---
 
 Output:
 ```json

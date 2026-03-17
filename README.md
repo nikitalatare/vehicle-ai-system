@@ -29,7 +29,7 @@ Processing:
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 Python
 

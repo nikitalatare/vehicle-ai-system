@@ -27,15 +27,6 @@ Processing:
 - Damage Detection
 - Intent Extraction
 
-Output:
-```json
-{
-  "vehicle_type": "SUV",
-  "detected_damage": ["dent"],
-  "customer_intent": "insurance claim",
-  "service_priority": "high"
-}
-
 --
 
 ##Tech Stack
@@ -49,4 +40,14 @@ YOLOv8 (Ultralytics)
 HuggingFace Transformers
 
 PyTorch
+
 --
+
+Output:
+```json
+{
+  "vehicle_type": "SUV",
+  "detected_damage": ["dent"],
+  "customer_intent": "insurance claim",
+  "service_priority": "high"
+}

@@ -32,17 +32,16 @@ Processing:
 ## Tech Stack
 
 Python
-
 FastAPI
-
 YOLOv8 (Ultralytics)
-
 HuggingFace Transformers
-
 PyTorch
 
 ---
+##  Live API
 
+https://your-api-url.onrender.com/docs
+---
 Output:
 ```json
 {

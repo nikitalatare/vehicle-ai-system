@@ -40,7 +40,7 @@ PyTorch
 ---
 ##  Live API
 
-https://your-api-url.onrender.com/docs
+http://127.0.0.1:8000/docs
 
 ---
 ## 🚀 How to Run
